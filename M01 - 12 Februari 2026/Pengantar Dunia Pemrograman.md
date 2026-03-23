@@ -1,14 +1,17 @@
 # Pengantar Dunia Pemrograman - 12 Februari 2026
+
 Tujuan di PPT
 
 ## Pemrograman
-Pemrograman adalah proses memformulasi persoalan komputasi menjadi program. Tidak hanya ngoding.
+
+Pemrograman adalah proses memformulasi persoalan komputasi menjadi program. Tidak hanya ngoding, tetapi juga analisis, implementasi, testing, dan debugging.
 
 ### Kegiatan Pemrograman
+
 1. Analisis Persoalan
-    - Spesifikasi (Apa yang diselesaikan) 
+    - Spesifikasi (Apa yang diselesaikan)
     - Algoritma (Bagaimana cara menyelesaikan)
-2. Program Writing (Coding) -> Implementasi
+2. Program Writing (Coding) → Implementasi
     - Menghasilkan Source Code
 3. Program Execution
     - Observation (Apakah program robust)
@@ -24,38 +27,40 @@ Pemrograman adalah proses memformulasi persoalan komputasi menjadi program. Tida
     - Tambahan kebutuhan baru
 
 ## Belajar Pemrograman
+
+> [!IMPORTANT]
 > Belajar Pemrograman tidak sama dengan Belajar Bahasa Pemrograman
 
-Belajar Pemrograman = Belajar Pola Pikir Komputasional + Paradigma pemrograman
-
-Pola Berpikir Komputasional -> pendekatan yang digunakan (Cara Pandang) -> Paradigma Pemrograman
+Belajar Pemrograman = Belajar Pola Pikir Komputasional + Paradigma Pemrograman
 
 Belajar Pemrograman:
-- Strategi Pemecahan
-- Metodologi dan sistematika pemecahan masalah
-- Menuliskan dalam notasi yang disepakati bersama
 
-Hal Penting dalam belajar Pemrograman -> Kelas Persoalan
+- Strategi Pemecahan (Pemahaman Masalah)
+- Analisis (Metodologi dan sistematika pemecahan masalah)
+- Sintesis (Menuliskan dalam notasi yang disepakati bersama)
 
-Belajar Memprogram
-- Pemahaman Masalah
-- Analisis
-- Sintesis
+## Paradigma Pemrograman
 
-Paradigma Pemrograman:
+Hal Penting dalam belajar Pemrograman → Kelas Persoalan
+
+Setiap kelas persoalan memiliki paradigma tersendiri yang bisa digunakan
+
+Pola Berpikir Komputasional → pendekatan yang digunakan (Cara Pandang) → Paradigma Pemrograman
+
+Jenis-Jenis Paradigma
+
 - Fungsional
+  - Berdasarkan konsep fungsi di matematika
 
-    Berdasarkan konsep fungsi di matematika
-
-- Prosesudral
-
-    Didasari konsep mesin Von Neumann <br>
-    Lebih melihat pada proses yang terjadi
+- Prosedural
+  - Didasari konsep mesin Von Neumann
+  - Lebih melihat pada proses yang terjadi
 
 - Berorientasi Objek
 
-    Didasari konsep objek (setiap objek punya atribut dan sifat tertentu) <br>
-    Lebih melihat pada 
+    Didasari konsep objek (setiap objek punya atribut dan sifat tertentu)
+
+    Lebih melihat pada
 
 - Deklaratif
 - Relasional
@@ -65,6 +70,7 @@ Paradigma Pemrograman:
 ## Bahasa Pemrograman
 
 ### Jenis Berdasarkan Tingkat Bahasa
+
 - Low Programming Language
   - Machine Language
   - Assembly
@@ -81,13 +87,15 @@ Paradigma Pemrograman:
 - Graphical Programming Languange
   - Scratch by MIT
   - Labview by National Instruments (Sensor, bisa dibuat jadi Executable)
-### Jenis-Jenis Lain
 
+### Jenis-Jenis Lain
 
 ## Tingkat/Skala Pemrograman
 
 ## Programmer
+
 ### Jenis Programmer
+
 - End User Programmer
 - Coder
 - Component User
@@ -95,12 +103,17 @@ Paradigma Pemrograman:
 - dll (baca PPT!)
 
 ### Level Programmer
+
 ...
 
 ## Software Engineering
+
 ### Meaning
+
 ...
+
 ### Life Cycle
+
 ...
 
 ### Software vs Program
